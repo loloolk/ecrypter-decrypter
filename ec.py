@@ -81,4 +81,4 @@ class Encrypter():
 
 ec = Encrypter()
 with open("encoded.ecdc", "w") as f:
-    f.write(ec.encode("Sussy Baka Umposter Amongus, The Imoster Is Very Sus, You Sussy Baka"))
+    f.write(ec.encode("Hello World!"))
